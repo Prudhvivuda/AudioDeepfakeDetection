@@ -1,0 +1,47 @@
+# Data and Machine Learning Libraries
+numpy
+scipy
+pandas
+scikit-learn
+tensorflow
+keras
+transformers
+datasets
+huggingface-hub
+
+# Audio Processing Libraries
+pydub
+librosa
+soundfile
+praat-parselmouth
+
+# Visualization Libraries
+matplotlib
+seaborn
+umap-learn
+tqdm
+
+# Dashboard and Web Application Frameworks
+dash>=2.5.0
+dash-core-components
+dash-html-components
+dash-bootstrap-components
+dash-bootstrap-templates
+streamlit
+
+# Server and Backend Utilities
+werkzeug==2.0.1
+
+# Jupyter Environment
+jupyter
+IPython
+ipywidgets
+ipympl
+
+# Model Interpretation Libraries
+shap
+lime
+
+# statistical analysis
+pingouin
+
